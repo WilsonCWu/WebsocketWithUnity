@@ -1,2 +1,1 @@
-# WebsocketWithUnity
-readme
+Server using Nodejs, and ws for websockets
